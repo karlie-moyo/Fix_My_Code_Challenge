@@ -4,7 +4,7 @@
 
 | PR.NO | PROJECT                                                                           | DESCRIPTION |
 | ----- | --------------------------------------------------------------------------------- | ----------- |
-|  🗂️  | [The Challenge Folder📁](./0x00-challenge/)                                        |The "Fix My Code" challenge typically involves debugging and correcting errors in a given piece of code. I was tasked with identifying and resolving issues such as syntax errors, logical bugs, and performance inefficiencies to make the code function correctly. This challenge tests problem-solving and debugging skills, as well as the ability to optimize and improve existing code.👩🏽‍💻 |
+|  🗂️  | [The Code Challenge Folder📁](./0x00-challenge/)                                        |The "Fix My Code" challenge typically involves debugging and correcting errors in a given piece of code. I was tasked with identifying and resolving issues such as syntax errors, logical bugs, and performance inefficiencies to make the code function correctly. This challenge tests problem-solving and debugging skills, as well as the ability to optimize and improve existing code.👩🏽‍💻 |
 
 This repository contains the folder and files created for the _**FIX MY CODE CHALLENGE** Files._
 Fix my code is a new type of project, where we'll jump into an existing code base and fix it! This is done using pre-written repos as initial files for all solutions. I'm not coding anything new, just fixing the existing code base.
